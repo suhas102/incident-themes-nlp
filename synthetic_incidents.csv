@@ -1,0 +1,507 @@
+quarter,text,true_theme,status,days_to_close_or_open,due_days,overdue
+2024Q1,unpatched server credential compromise detected by monitoring at Leeds,Cyber / data,Open,128,35,True
+2024Q1,warehouse aisle injury reported escalated to safety lead at Daventry,"Health, safety and product",Closed,46,52,False
+2024Q1,refund authorisation not approved so control did not operate at Bristol,Process / control failure,Closed,49,58,False
+2024Q1,customer data export unauthorised access attempt detected by monitoring at Leeds,Cyber / data,Closed,21,31,False
+2024Q1,picking colleagues high attrition affecting colleague wellbeing at Daventry,Colleague availability / capability,Closed,28,84,False
+2024Q1,database unavailable causing failed customer orders at Glasgow,System / IT outage,Closed,32,33,False
+2024Q1,supplier system outage with no contingency carrier available at Manchester escalated to area manager,Third-party / carrier failure,Closed,85,87,False
+2024Q1,unpatched server clicked by colleague with possible data exposure at Peterborough customer impact low,Cyber / data,Closed,43,57,False
+2024Q1,leaver access removal not approved leading to margin error at Store 214,Process / control failure,Closed,11,24,False
+2024Q1,fire door obstructed beyond required timeframe at Basingstoke,"Health, safety and product",Closed,46,88,False
+2024Q1,vehicle yard near miss beyond required timeframe at Leeds raised via incident log,"Health, safety and product",Closed,16,23,False
+2024Q1,supplier portal account clicked by colleague with possible data exposure at Store 087,Cyber / data,Closed,56,54,True
+2024Q1,delivery partner capacity shortfall during peak trading at Store 214,Third-party / carrier failure,Closed,57,87,False
+2024Q1,database timeout after release change at Peterborough customer impact low,System / IT outage,Closed,55,81,False
+2024Q1,approval step missing evidence with no secondary check at Leeds customer impact low,Process / control failure,Closed,85,87,False
+2024Q1,new starters high attrition increasing delivery delays at Glasgow reviewed by control owner,Colleague availability / capability,Closed,51,46,True
+2024Q1,phishing email vulnerability flagged with possible data exposure at Basingstoke,Cyber / data,Open,97,49,True
+2024Q1,new starters single person dependency affecting colleague wellbeing at Manchester,Colleague availability / capability,Closed,43,44,False
+2024Q1,contracted haulier failed to scan parcels leaving stock shortages on promoted lines at Store 087,Third-party / carrier failure,Open,91,20,True
+2024Q1,approval step skipped creating financial loss at Basingstoke,Process / control failure,Closed,28,20,True
+2024Q1,racking damage identified escalated to safety lead at Glasgow,"Health, safety and product",Closed,20,33,False
+2024Q1,laptop vulnerability flagged detected by monitoring at Manchester customer impact low,Cyber / data,Closed,34,26,True
+2024Q1,unpatched server lost device beyond agreed patching deadline at Basingstoke,Cyber / data,Closed,62,73,False
+2024Q1,approval step missing evidence so control did not operate at Store 087,Process / control failure,Closed,7,26,False
+2024Q1,picking colleagues single person dependency causing picking errors at Glasgow,Colleague availability / capability,Closed,53,67,False
+2024Q1,picking colleagues not trained causing picking errors at Store 087,Colleague availability / capability,Closed,20,71,False
+2024Q1,database failed deployment with rollback delayed at Bristol reviewed by control owner,System / IT outage,Closed,16,62,False
+2024Q1,shift cover not trained reducing throughput on peak shift at Leeds,Colleague availability / capability,Closed,42,87,False
+2024Q1,mobile app unavailable slowing click and collect processing at Leeds,System / IT outage,Closed,52,48,True
+2024Q1,delivery partner failed to scan parcels with no contingency carrier available at Peterborough,Third-party / carrier failure,Closed,71,76,False
+2024Q1,third party carrier missed collection disrupting store replenishment at Store 087 escalated to area manager,Third-party / carrier failure,Closed,23,69,False
+2024Q1,warehouse team not trained leaving no cover for critical task at Bristol escalated to area manager,Colleague availability / capability,Closed,37,67,False
+2024Q1,laptop vulnerability flagged with possible data exposure at Bristol,Cyber / data,Closed,24,76,False
+2024Q1,shift cover short notice absence causing picking errors at Basingstoke,Colleague availability / capability,Open,7,76,False
+2024Q1,approval step bypassed leading to margin error at Daventry,Process / control failure,Closed,14,27,False
+2024Q1,customer data export credential compromise privacy review opened at Bristol,Cyber / data,Open,72,29,True
+2024Q1,shift cover below minimum staffing causing picking errors at Basingstoke reviewed by control owner,Colleague availability / capability,Closed,42,51,False
+2024Q1,manual handling task obstructed during store walk at Peterborough,"Health, safety and product",Open,122,42,True
+2024Q1,courier partner capacity shortfall with no contingency carrier available at Manchester escalated to area manager,Third-party / carrier failure,Open,125,59,True
+2024Q1,database sync failure with rollback delayed at Manchester reviewed by control owner,System / IT outage,Closed,30,61,False
+2024Q1,contact centre team below minimum staffing causing picking errors at Peterborough,Colleague availability / capability,Closed,43,66,False
+2024Q1,payment gateway service degradation after release change at Basingstoke customer impact low,System / IT outage,Closed,72,72,False
+2024Q1,third party carrier system outage during peak trading at Bristol escalated to area manager,Third-party / carrier failure,Closed,15,79,False
+2024Q1,supplier portal account lost device privacy review opened at Peterborough,Cyber / data,Closed,40,53,False
+2024Q1,approval step performed late with no secondary check at Basingstoke,Process / control failure,Closed,10,51,False
+2024Q1,manual handling task failed inspection with corrective repair needed at Glasgow,"Health, safety and product",Closed,9,70,False
+2024Q1,racking damage identified during store walk at Store 214,"Health, safety and product",Open,106,34,True
+2024Q1,third party carrier missed collection with no contingency carrier available at Store 214,Third-party / carrier failure,Open,102,29,True
+2024Q1,laptop clicked by colleague with possible data exposure at Store 214,Cyber / data,Closed,34,41,False
+2024Q1,manual handling task damage identified with corrective repair needed at Leeds,"Health, safety and product",Closed,18,30,False
+2024Q1,delivery partner capacity shortfall disrupting store replenishment at Manchester,Third-party / carrier failure,Open,78,87,False
+2024Q1,supplier onboarding check bypassed creating financial loss at Daventry,Process / control failure,Closed,16,75,False
+2024Q1,phishing email sent to wrong recipient with possible data exposure at Basingstoke,Cyber / data,Closed,51,46,True
+2024Q1,delivery partner missed collection causing delayed customer deliveries at Peterborough raised via incident log,Third-party / carrier failure,Closed,65,60,True
+2024Q1,stock system service degradation slowing click and collect processing at Peterborough,System / IT outage,Closed,15,35,False
+2024Q1,courier partner failed to deliver leaving stock shortages on promoted lines at Glasgow,Third-party / carrier failure,Closed,38,41,False
+2024Q1,supplier portal account lost device privacy review opened at Daventry action agreed with owner,Cyber / data,Closed,16,24,False
+2024Q1,courier partner failed to scan parcels disrupting store replenishment at Manchester escalated to area manager,Third-party / carrier failure,Open,86,32,True
+2024Q1,website checkout failed deployment with rollback delayed at Glasgow,System / IT outage,Closed,40,38,True
+2024Q1,shift cover below minimum staffing affecting colleague wellbeing at Glasgow,Colleague availability / capability,Open,56,47,True
+2024Q1,contracted haulier missed collection disrupting store replenishment at Basingstoke,Third-party / carrier failure,Closed,68,88,False
+2024Q1,mobile app latency issue after release change at Store 087,System / IT outage,Closed,49,54,False
+2024Q1,picking colleagues short notice absence leaving no cover for critical task at Bristol,Colleague availability / capability,Open,18,36,False
+2024Q1,vehicle yard injury reported risk of colleague harm at Peterborough,"Health, safety and product",Closed,77,69,True
+2024Q1,payment gateway timeout causing failed customer orders at Peterborough reviewed by control owner,System / IT outage,Closed,52,47,True
+2024Q1,database latency issue causing failed customer orders at Store 214,System / IT outage,Open,17,39,False
+2024Q1,contact centre team short notice absence causing picking errors at Manchester,Colleague availability / capability,Closed,45,52,False
+2024Q1,customer data export unauthorised access attempt beyond agreed patching deadline at Basingstoke,Cyber / data,Closed,39,36,True
+2024Q1,racking near miss beyond required timeframe at Manchester,"Health, safety and product",Closed,7,29,False
+2024Q2,privileged account sent to wrong recipient beyond agreed patching deadline at Daventry,Cyber / data,Closed,54,48,True
+2024Q2,delivery partner late delivery disrupting store replenishment at Peterborough,Third-party / carrier failure,Closed,63,59,True
+2024Q2,warehouse team below minimum staffing increasing delivery delays at Glasgow,Colleague availability / capability,Closed,5,25,False
+2024Q2,unpatched server unauthorised access attempt with possible data exposure at Basingstoke,Cyber / data,Open,19,51,False
+2024Q2,warehouse aisle obstructed risk of colleague harm at Glasgow,"Health, safety and product",Closed,49,63,False
+2024Q2,manual stock count not approved with no secondary check at Leeds,Process / control failure,Closed,27,47,False
+2024Q2,vehicle yard not actioned escalated to safety lead at Glasgow,"Health, safety and product",Closed,23,43,False
+2024Q2,vehicle yard obstructed with corrective repair needed at Store 214 reviewed by control owner,"Health, safety and product",Open,57,69,False
+2024Q2,key person single person dependency increasing delivery delays at Glasgow,Colleague availability / capability,Closed,29,37,False
+2024Q2,third party carrier late delivery leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,68,59,True
+2024Q2,refund authorisation bypassed so control did not operate at Store 087,Process / control failure,Closed,44,39,True
+2024Q2,database timeout after release change at Bristol,System / IT outage,Open,14,29,False
+2024Q2,stock system unavailable causing failed customer orders at Glasgow,System / IT outage,Closed,41,39,True
+2024Q2,supplier onboarding check skipped so control did not operate at Store 214,Process / control failure,Closed,43,66,False
+2024Q2,mobile app failed deployment slowing click and collect processing at Glasgow escalated to area manager,System / IT outage,Closed,42,71,False
+2024Q2,courier partner system outage disrupting store replenishment at Glasgow,Third-party / carrier failure,Closed,16,37,False
+2024Q2,payment gateway sync failure causing failed customer orders at Leeds,System / IT outage,Closed,9,56,False
+2024Q2,database timeout showing incorrect availability online at Store 087 customer impact low,System / IT outage,Closed,34,64,False
+2024Q2,racking near miss escalated to safety lead at Store 214,"Health, safety and product",Closed,66,75,False
+2024Q2,unpatched server vulnerability flagged with possible data exposure at Bristol,Cyber / data,Closed,44,47,False
+2024Q2,stock system unavailable after release change at Store 087 customer impact low,System / IT outage,Closed,32,50,False
+2024Q2,contracted haulier failed to deliver during peak trading at Basingstoke,Third-party / carrier failure,Closed,5,39,False
+2024Q2,delivery partner capacity shortfall during peak trading at Basingstoke,Third-party / carrier failure,Closed,5,21,False
+2024Q2,product recall notice damage identified beyond required timeframe at Bristol,"Health, safety and product",Closed,37,63,False
+2024Q2,supplier failed to scan parcels leaving stock shortages on promoted lines at Store 214,Third-party / carrier failure,Closed,7,82,False
+2024Q2,shift cover single person dependency affecting colleague wellbeing at Leeds,Colleague availability / capability,Open,24,34,False
+2024Q2,payment gateway unavailable with rollback delayed at Basingstoke,System / IT outage,Open,55,78,False
+2024Q2,manual handling task injury reported during store walk at Leeds,"Health, safety and product",Closed,54,59,False
+2024Q2,new starters short notice absence causing picking errors at Manchester,Colleague availability / capability,Closed,59,70,False
+2024Q2,warehouse aisle obstructed beyond required timeframe at Store 214 escalated to area manager,"Health, safety and product",Closed,16,58,False
+2024Q2,approval step not completed with no secondary check at Leeds,Process / control failure,Open,96,70,True
+2024Q2,manual stock count not completed found during audit testing at Manchester escalated to area manager,Process / control failure,Closed,6,29,False
+2024Q2,payment gateway timeout slowing click and collect processing at Peterborough action agreed with owner,System / IT outage,Closed,57,70,False
+2024Q2,warehouse aisle failed inspection beyond required timeframe at Glasgow raised via incident log,"Health, safety and product",Closed,36,58,False
+2024Q2,mobile app failed deployment with rollback delayed at Daventry,System / IT outage,Closed,29,62,False
+2024Q2,laptop unauthorised access attempt with possible data exposure at Glasgow,Cyber / data,Open,28,73,False
+2024Q2,racking injury reported escalated to safety lead at Manchester customer impact low,"Health, safety and product",Closed,50,42,True
+2024Q2,mobile app sync failure showing incorrect availability online at Store 087,System / IT outage,Closed,29,23,True
+2024Q2,payment gateway latency issue causing failed customer orders at Leeds reviewed by control owner,System / IT outage,Closed,35,38,False
+2024Q2,refund authorisation bypassed with no secondary check at Daventry,Process / control failure,Closed,10,71,False
+2024Q2,key person short notice absence causing picking errors at Leeds,Colleague availability / capability,Closed,31,28,True
+2024Q2,delivery partner late delivery disrupting store replenishment at Store 214,Third-party / carrier failure,Closed,46,80,False
+2024Q2,leaver access removal skipped found during audit testing at Glasgow escalated to area manager,Process / control failure,Closed,41,40,True
+2024Q2,approval step performed late with no secondary check at Peterborough reviewed by control owner,Process / control failure,Closed,14,47,False
+2024Q2,new starters overtime limit reached leaving no cover for critical task at Daventry,Colleague availability / capability,Closed,44,60,False
+2024Q2,manual handling task not actioned escalated to safety lead at Leeds,"Health, safety and product",Closed,42,76,False
+2024Q2,price change not completed so control did not operate at Leeds,Process / control failure,Closed,61,63,False
+2024Q2,racking obstructed beyond required timeframe at Glasgow,"Health, safety and product",Closed,22,38,False
+2024Q2,warehouse team short notice absence affecting colleague wellbeing at Peterborough,Colleague availability / capability,Closed,36,77,False
+2024Q2,supplier failed to scan parcels causing delayed customer deliveries at Bristol action agreed with owner,Third-party / carrier failure,Closed,25,57,False
+2024Q2,approval step performed late leading to margin error at Glasgow escalated to area manager,Process / control failure,Closed,39,54,False
+2024Q2,supplier onboarding check not completed creating financial loss at Peterborough,Process / control failure,Closed,44,44,False
+2024Q2,racking damage identified risk of colleague harm at Basingstoke reviewed by control owner,"Health, safety and product",Closed,55,53,True
+2024Q2,leaver access removal bypassed so control did not operate at Leeds raised via incident log,Process / control failure,Closed,38,29,True
+2024Q2,database unavailable slowing click and collect processing at Daventry,System / IT outage,Closed,46,52,False
+2024Q2,third party carrier failed to deliver during peak trading at Bristol reviewed by control owner,Third-party / carrier failure,Open,59,35,True
+2024Q2,approval step not approved creating financial loss at Basingstoke,Process / control failure,Closed,26,24,True
+2024Q2,contracted haulier failed to deliver with no contingency carrier available at Store 087,Third-party / carrier failure,Open,24,67,False
+2024Q2,manual stock count missing evidence creating financial loss at Store 214,Process / control failure,Open,22,34,False
+2024Q2,courier partner system outage leaving stock shortages on promoted lines at Peterborough,Third-party / carrier failure,Open,9,84,False
+2024Q2,warehouse team high attrition leaving no cover for critical task at Store 214,Colleague availability / capability,Closed,51,78,False
+2024Q2,vehicle yard not actioned escalated to safety lead at Leeds,"Health, safety and product",Closed,25,45,False
+2024Q2,laptop sent to wrong recipient privacy review opened at Daventry,Cyber / data,Open,132,41,True
+2024Q2,approval step not approved so control did not operate at Manchester,Process / control failure,Closed,35,35,False
+2024Q2,refund authorisation not completed so control did not operate at Basingstoke escalated to area manager,Process / control failure,Closed,6,24,False
+2024Q2,fire door injury reported beyond required timeframe at Leeds customer impact low,"Health, safety and product",Closed,21,55,False
+2024Q3,refund authorisation bypassed with no secondary check at Peterborough reviewed by control owner,Process / control failure,Closed,9,37,False
+2024Q3,racking obstructed with corrective repair needed at Bristol reviewed by control owner,"Health, safety and product",Closed,54,48,True
+2024Q3,database latency issue slowing click and collect processing at Bristol raised via incident log,System / IT outage,Closed,33,35,False
+2024Q3,supplier portal account credential compromise privacy review opened at Bristol escalated to area manager,Cyber / data,Closed,47,89,False
+2024Q3,customer data export lost device with possible data exposure at Leeds,Cyber / data,Closed,12,22,False
+2024Q3,order management platform timeout with rollback delayed at Peterborough escalated to area manager,System / IT outage,Closed,46,70,False
+2024Q3,third party carrier late delivery causing delayed customer deliveries at Store 214 customer impact low,Third-party / carrier failure,Closed,85,84,True
+2024Q3,vehicle yard near miss beyond required timeframe at Basingstoke,"Health, safety and product",Open,30,37,False
+2024Q3,delivery partner failed to deliver disrupting store replenishment at Leeds escalated to area manager,Third-party / carrier failure,Closed,7,89,False
+2024Q3,warehouse team not trained reducing throughput on peak shift at Basingstoke,Colleague availability / capability,Closed,23,49,False
+2024Q3,logistics provider late delivery with no contingency carrier available at Leeds,Third-party / carrier failure,Closed,49,67,False
+2024Q3,order management platform failed deployment with rollback delayed at Bristol,System / IT outage,Closed,62,84,False
+2024Q3,delivery partner failed to deliver causing delayed customer deliveries at Basingstoke customer impact low,Third-party / carrier failure,Open,134,68,True
+2024Q3,leaver access removal bypassed found during audit testing at Store 214,Process / control failure,Open,118,22,True
+2024Q3,laptop sent to wrong recipient detected by monitoring at Bristol,Cyber / data,Closed,38,41,False
+2024Q3,third party carrier system outage with no contingency carrier available at Manchester,Third-party / carrier failure,Open,138,55,True
+2024Q3,database service degradation after release change at Bristol raised via incident log,System / IT outage,Open,11,33,False
+2024Q3,warehouse team below minimum staffing leaving no cover for critical task at Peterborough,Colleague availability / capability,Open,63,66,False
+2024Q3,phishing email vulnerability flagged reported to security team at Bristol,Cyber / data,Closed,65,68,False
+2024Q3,product recall notice near miss during store walk at Store 214,"Health, safety and product",Closed,5,49,False
+2024Q3,contracted haulier capacity shortfall during peak trading at Bristol,Third-party / carrier failure,Closed,7,37,False
+2024Q3,warehouse aisle not actioned during store walk at Bristol reviewed by control owner,"Health, safety and product",Closed,59,57,True
+2024Q3,database latency issue with rollback delayed at Glasgow,System / IT outage,Open,135,32,True
+2024Q3,leaver access removal performed late found during audit testing at Glasgow,Process / control failure,Closed,38,40,False
+2024Q3,order management platform latency issue showing incorrect availability online at Peterborough action agreed with owner,System / IT outage,Closed,39,38,True
+2024Q3,refund authorisation skipped leading to margin error at Store 087 raised via incident log,Process / control failure,Closed,44,63,False
+2024Q3,customer data export lost device reported to security team at Peterborough,Cyber / data,Closed,19,82,False
+2024Q3,supplier failed to scan parcels leaving stock shortages on promoted lines at Store 087,Third-party / carrier failure,Closed,57,81,False
+2024Q3,picking colleagues not trained leaving no cover for critical task at Basingstoke escalated to area manager,Colleague availability / capability,Open,113,27,True
+2024Q3,courier partner failed to deliver leaving stock shortages on promoted lines at Store 087 action agreed with owner,Third-party / carrier failure,Closed,14,33,False
+2024Q3,supplier onboarding check bypassed creating financial loss at Manchester reviewed by control owner,Process / control failure,Closed,36,74,False
+2024Q3,supplier portal account sent to wrong recipient with possible data exposure at Store 087,Cyber / data,Closed,65,63,True
+2024Q3,picking colleagues below minimum staffing increasing delivery delays at Bristol action agreed with owner,Colleague availability / capability,Open,42,29,True
+2024Q3,stock system service degradation after release change at Daventry escalated to area manager,System / IT outage,Closed,15,42,False
+2024Q3,leaver access removal not completed with no secondary check at Glasgow action agreed with owner,Process / control failure,Closed,39,76,False
+2024Q3,third party carrier late delivery causing delayed customer deliveries at Leeds,Third-party / carrier failure,Open,68,64,True
+2024Q3,contact centre team short notice absence increasing delivery delays at Manchester,Colleague availability / capability,Closed,58,59,False
+2024Q3,unpatched server credential compromise with possible data exposure at Bristol,Cyber / data,Open,77,49,True
+2024Q3,key person single person dependency affecting colleague wellbeing at Basingstoke,Colleague availability / capability,Closed,16,56,False
+2024Q3,database service degradation with rollback delayed at Glasgow,System / IT outage,Closed,34,42,False
+2024Q3,phishing email clicked by colleague reported to security team at Store 087,Cyber / data,Closed,90,89,True
+2024Q3,courier partner late delivery with no contingency carrier available at Glasgow,Third-party / carrier failure,Closed,37,32,True
+2024Q3,unpatched server lost device detected by monitoring at Leeds,Cyber / data,Closed,44,43,True
+2024Q3,customer data export clicked by colleague beyond agreed patching deadline at Manchester,Cyber / data,Closed,27,80,False
+2024Q3,payment gateway service degradation with rollback delayed at Store 214 escalated to area manager,System / IT outage,Closed,42,45,False
+2024Q3,supplier missed collection leaving stock shortages on promoted lines at Peterborough,Third-party / carrier failure,Open,105,71,True
+2024Q3,supplier failed to deliver during peak trading at Store 087,Third-party / carrier failure,Closed,25,22,True
+2024Q3,unpatched server vulnerability flagged detected by monitoring at Bristol,Cyber / data,Closed,31,26,True
+2024Q3,racking damage identified during store walk at Store 214,"Health, safety and product",Closed,46,65,False
+2024Q3,phishing email sent to wrong recipient reported to security team at Store 087,Cyber / data,Closed,75,81,False
+2024Q3,contact centre team short notice absence increasing delivery delays at Store 087 reviewed by control owner,Colleague availability / capability,Closed,17,26,False
+2024Q3,key person short notice absence reducing throughput on peak shift at Store 214,Colleague availability / capability,Closed,26,50,False
+2024Q3,unpatched server sent to wrong recipient beyond agreed patching deadline at Leeds,Cyber / data,Open,27,48,False
+2024Q3,supplier onboarding check skipped leading to margin error at Peterborough,Process / control failure,Closed,8,53,False
+2024Q3,laptop unauthorised access attempt privacy review opened at Basingstoke,Cyber / data,Closed,75,79,False
+2024Q3,racking near miss beyond required timeframe at Daventry,"Health, safety and product",Closed,19,87,False
+2024Q3,privileged account sent to wrong recipient beyond agreed patching deadline at Basingstoke,Cyber / data,Closed,33,28,True
+2024Q3,key person overtime limit reached leaving no cover for critical task at Manchester action agreed with owner,Colleague availability / capability,Closed,38,65,False
+2024Q3,phishing email lost device beyond agreed patching deadline at Store 087,Cyber / data,Closed,19,31,False
+2024Q3,new starters short notice absence affecting colleague wellbeing at Glasgow escalated to area manager,Colleague availability / capability,Closed,10,34,False
+2024Q3,mobile app service degradation after release change at Peterborough,System / IT outage,Closed,62,82,False
+2024Q3,approval step performed late with no secondary check at Daventry reviewed by control owner,Process / control failure,Open,99,47,True
+2024Q4,product recall notice failed inspection risk of colleague harm at Store 087,"Health, safety and product",Closed,35,78,False
+2024Q4,logistics provider capacity shortfall with no contingency carrier available at Peterborough,Third-party / carrier failure,Closed,84,89,False
+2024Q4,stock system service degradation slowing click and collect processing at Store 087,System / IT outage,Closed,71,83,False
+2024Q4,supplier portal account unauthorised access attempt privacy review opened at Basingstoke,Cyber / data,Closed,14,20,False
+2024Q4,warehouse aisle near miss risk of colleague harm at Peterborough,"Health, safety and product",Closed,10,26,False
+2024Q4,vehicle yard not actioned risk of colleague harm at Glasgow reviewed by control owner,"Health, safety and product",Open,36,58,False
+2024Q4,supplier late delivery causing delayed customer deliveries at Store 087,Third-party / carrier failure,Closed,18,73,False
+2024Q4,contact centre team not trained affecting colleague wellbeing at Peterborough,Colleague availability / capability,Closed,34,80,False
+2024Q4,vehicle yard obstructed escalated to safety lead at Peterborough,"Health, safety and product",Closed,10,28,False
+2024Q4,key person high attrition affecting colleague wellbeing at Leeds,Colleague availability / capability,Closed,32,66,False
+2024Q4,refund authorisation skipped with no secondary check at Leeds,Process / control failure,Closed,29,83,False
+2024Q4,contracted haulier late delivery leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,51,50,True
+2024Q4,picking colleagues overtime limit reached causing picking errors at Basingstoke,Colleague availability / capability,Closed,34,61,False
+2024Q4,phishing email clicked by colleague detected by monitoring at Peterborough,Cyber / data,Open,112,37,True
+2024Q4,supplier portal account credential compromise with possible data exposure at Peterborough customer impact low,Cyber / data,Open,75,55,True
+2024Q4,delivery partner system outage causing delayed customer deliveries at Basingstoke,Third-party / carrier failure,Closed,6,76,False
+2024Q4,third party carrier late delivery with no contingency carrier available at Leeds,Third-party / carrier failure,Closed,36,60,False
+2024Q4,warehouse aisle obstructed escalated to safety lead at Bristol,"Health, safety and product",Closed,15,72,False
+2024Q4,new starters overtime limit reached increasing delivery delays at Glasgow action agreed with owner,Colleague availability / capability,Closed,27,24,True
+2024Q4,fire door obstructed during store walk at Glasgow,"Health, safety and product",Closed,29,42,False
+2024Q4,contact centre team overtime limit reached causing picking errors at Bristol,Colleague availability / capability,Closed,21,43,False
+2024Q4,leaver access removal not approved leading to margin error at Manchester,Process / control failure,Closed,23,78,False
+2024Q4,supplier system outage during peak trading at Store 087,Third-party / carrier failure,Open,19,20,False
+2024Q4,delivery partner failed to deliver causing delayed customer deliveries at Bristol,Third-party / carrier failure,Closed,34,54,False
+2024Q4,payment gateway sync failure slowing click and collect processing at Store 087,System / IT outage,Closed,26,54,False
+2024Q4,supplier capacity shortfall disrupting store replenishment at Bristol raised via incident log,Third-party / carrier failure,Open,137,77,True
+2024Q4,website checkout failed deployment causing failed customer orders at Basingstoke,System / IT outage,Open,100,89,True
+2024Q4,vehicle yard not actioned during store walk at Store 087,"Health, safety and product",Closed,6,35,False
+2024Q4,payment gateway sync failure with rollback delayed at Store 087,System / IT outage,Closed,29,21,True
+2024Q4,payment gateway latency issue after release change at Store 214,System / IT outage,Closed,19,67,False
+2024Q4,manual handling task damage identified beyond required timeframe at Manchester,"Health, safety and product",Closed,10,26,False
+2024Q4,phishing email lost device detected by monitoring at Store 214,Cyber / data,Closed,80,78,True
+2024Q4,racking injury reported beyond required timeframe at Store 214,"Health, safety and product",Closed,53,68,False
+2024Q4,key person high attrition reducing throughput on peak shift at Peterborough customer impact low,Colleague availability / capability,Closed,30,47,False
+2024Q4,approval step missing evidence found during audit testing at Glasgow,Process / control failure,Closed,69,61,True
+2024Q4,warehouse team short notice absence causing picking errors at Glasgow,Colleague availability / capability,Closed,11,75,False
+2024Q4,unpatched server credential compromise with possible data exposure at Peterborough,Cyber / data,Closed,27,60,False
+2024Q4,third party carrier missed collection leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,22,47,False
+2024Q4,phishing email clicked by colleague detected by monitoring at Manchester,Cyber / data,Closed,47,61,False
+2024Q4,courier partner system outage causing delayed customer deliveries at Glasgow,Third-party / carrier failure,Open,59,89,False
+2024Q4,picking colleagues short notice absence increasing delivery delays at Leeds action agreed with owner,Colleague availability / capability,Closed,47,58,False
+2024Q4,laptop sent to wrong recipient with possible data exposure at Daventry escalated to area manager,Cyber / data,Closed,54,71,False
+2024Q4,logistics provider system outage leaving stock shortages on promoted lines at Daventry,Third-party / carrier failure,Closed,40,67,False
+2024Q4,supplier onboarding check not completed creating financial loss at Bristol,Process / control failure,Closed,8,52,False
+2024Q4,website checkout sync failure causing failed customer orders at Basingstoke raised via incident log,System / IT outage,Closed,67,87,False
+2024Q4,racking damage identified risk of colleague harm at Store 214,"Health, safety and product",Closed,12,47,False
+2024Q4,product recall notice near miss risk of colleague harm at Manchester,"Health, safety and product",Closed,28,39,False
+2024Q4,vehicle yard near miss escalated to safety lead at Leeds,"Health, safety and product",Closed,37,32,True
+2024Q4,phishing email credential compromise detected by monitoring at Peterborough escalated to area manager,Cyber / data,Open,113,34,True
+2024Q4,shift cover overtime limit reached causing picking errors at Manchester,Colleague availability / capability,Closed,48,45,True
+2024Q4,courier partner missed collection causing delayed customer deliveries at Store 214,Third-party / carrier failure,Open,89,79,True
+2024Q4,contracted haulier missed collection with no contingency carrier available at Leeds,Third-party / carrier failure,Closed,9,56,False
+2024Q4,contact centre team below minimum staffing leaving no cover for critical task at Bristol action agreed with owner,Colleague availability / capability,Closed,21,87,False
+2024Q4,new starters short notice absence affecting colleague wellbeing at Peterborough customer impact low,Colleague availability / capability,Closed,18,67,False
+2024Q4,price change missing evidence with no secondary check at Glasgow,Process / control failure,Closed,6,45,False
+2024Q4,unpatched server sent to wrong recipient beyond agreed patching deadline at Basingstoke reviewed by control owner,Cyber / data,Closed,62,57,True
+2024Q4,unpatched server unauthorised access attempt detected by monitoring at Store 214,Cyber / data,Closed,30,21,True
+2024Q4,laptop credential compromise with possible data exposure at Leeds,Cyber / data,Open,9,80,False
+2024Q4,order management platform sync failure after release change at Glasgow,System / IT outage,Closed,17,43,False
+2024Q4,supplier capacity shortfall with no contingency carrier available at Basingstoke,Third-party / carrier failure,Open,37,52,False
+2024Q4,warehouse aisle injury reported risk of colleague harm at Store 087,"Health, safety and product",Closed,23,38,False
+2024Q4,payment gateway unavailable showing incorrect availability online at Store 214,System / IT outage,Closed,5,42,False
+2024Q4,website checkout service degradation causing failed customer orders at Daventry,System / IT outage,Closed,48,79,False
+2024Q4,privileged account credential compromise with possible data exposure at Bristol raised via incident log,Cyber / data,Closed,19,62,False
+2025Q1,logistics provider capacity shortfall during peak trading at Bristol raised via incident log,Third-party / carrier failure,Closed,26,52,False
+2025Q1,leaver access removal skipped so control did not operate at Basingstoke escalated to area manager,Process / control failure,Closed,43,75,False
+2025Q1,fire door injury reported beyond required timeframe at Glasgow,"Health, safety and product",Closed,68,79,False
+2025Q1,supplier system outage leaving stock shortages on promoted lines at Peterborough customer impact low,Third-party / carrier failure,Closed,12,61,False
+2025Q1,supplier capacity shortfall with no contingency carrier available at Manchester,Third-party / carrier failure,Open,22,43,False
+2025Q1,phishing email credential compromise reported to security team at Leeds raised via incident log,Cyber / data,Closed,8,52,False
+2025Q1,payment gateway latency issue with rollback delayed at Glasgow,System / IT outage,Closed,39,57,False
+2025Q1,fire door injury reported beyond required timeframe at Peterborough,"Health, safety and product",Closed,27,24,True
+2025Q1,leaver access removal not approved with no secondary check at Bristol raised via incident log,Process / control failure,Closed,15,33,False
+2025Q1,fire door not actioned escalated to safety lead at Peterborough,"Health, safety and product",Closed,14,40,False
+2025Q1,supplier portal account unauthorised access attempt beyond agreed patching deadline at Leeds,Cyber / data,Open,12,50,False
+2025Q1,supplier portal account clicked by colleague beyond agreed patching deadline at Store 214,Cyber / data,Open,27,71,False
+2025Q1,privileged account credential compromise with possible data exposure at Manchester reviewed by control owner,Cyber / data,Closed,43,36,True
+2025Q1,supplier onboarding check missing evidence so control did not operate at Peterborough action agreed with owner,Process / control failure,Closed,28,82,False
+2025Q1,supplier portal account vulnerability flagged reported to security team at Store 087,Cyber / data,Closed,22,22,False
+2025Q1,supplier portal account credential compromise with possible data exposure at Store 087 raised via incident log,Cyber / data,Closed,5,81,False
+2025Q1,unpatched server unauthorised access attempt privacy review opened at Peterborough,Cyber / data,Closed,24,26,False
+2025Q1,manual handling task obstructed escalated to safety lead at Glasgow,"Health, safety and product",Closed,8,54,False
+2025Q1,courier partner failed to deliver during peak trading at Manchester customer impact low,Third-party / carrier failure,Closed,27,24,True
+2025Q1,supplier system outage leaving stock shortages on promoted lines at Leeds reviewed by control owner,Third-party / carrier failure,Closed,45,46,False
+2025Q1,customer data export lost device detected by monitoring at Peterborough,Cyber / data,Closed,32,50,False
+2025Q1,customer data export clicked by colleague with possible data exposure at Bristol,Cyber / data,Closed,9,34,False
+2025Q1,laptop sent to wrong recipient detected by monitoring at Bristol raised via incident log,Cyber / data,Closed,83,83,False
+2025Q1,approval step not approved creating financial loss at Peterborough,Process / control failure,Closed,76,81,False
+2025Q1,contracted haulier failed to deliver causing delayed customer deliveries at Peterborough,Third-party / carrier failure,Closed,5,24,False
+2025Q1,courier partner failed to scan parcels disrupting store replenishment at Glasgow escalated to area manager,Third-party / carrier failure,Open,27,82,False
+2025Q1,customer data export credential compromise detected by monitoring at Manchester,Cyber / data,Open,22,42,False
+2025Q1,stock system service degradation slowing click and collect processing at Leeds,System / IT outage,Closed,23,86,False
+2025Q1,vehicle yard damage identified with corrective repair needed at Store 214,"Health, safety and product",Open,19,59,False
+2025Q1,supplier missed collection leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,41,43,False
+2025Q1,supplier portal account clicked by colleague detected by monitoring at Glasgow,Cyber / data,Closed,45,40,True
+2025Q1,supplier portal account clicked by colleague with possible data exposure at Store 087,Cyber / data,Open,53,61,False
+2025Q1,manual stock count bypassed creating financial loss at Bristol customer impact low,Process / control failure,Open,127,23,True
+2025Q1,mobile app failed deployment after release change at Glasgow customer impact low,System / IT outage,Open,24,44,False
+2025Q1,contact centre team overtime limit reached leaving no cover for critical task at Manchester,Colleague availability / capability,Closed,7,40,False
+2025Q1,supplier portal account lost device reported to security team at Peterborough,Cyber / data,Open,57,88,False
+2025Q1,warehouse team not trained causing picking errors at Bristol,Colleague availability / capability,Closed,9,25,False
+2025Q1,logistics provider failed to scan parcels leaving stock shortages on promoted lines at Store 214 customer impact low,Third-party / carrier failure,Open,117,34,True
+2025Q1,racking near miss beyond required timeframe at Store 214,"Health, safety and product",Closed,31,70,False
+2025Q1,customer data export credential compromise detected by monitoring at Basingstoke,Cyber / data,Open,106,38,True
+2025Q1,order management platform unavailable slowing click and collect processing at Daventry,System / IT outage,Open,19,79,False
+2025Q1,phishing email unauthorised access attempt detected by monitoring at Daventry,Cyber / data,Open,21,28,False
+2025Q1,supplier onboarding check not completed creating financial loss at Glasgow,Process / control failure,Closed,7,45,False
+2025Q1,vehicle yard near miss during store walk at Glasgow,"Health, safety and product",Closed,46,43,True
+2025Q1,refund authorisation missing evidence leading to margin error at Store 214 raised via incident log,Process / control failure,Closed,27,43,False
+2025Q1,approval step not approved found during audit testing at Peterborough,Process / control failure,Closed,30,39,False
+2025Q1,contact centre team high attrition affecting colleague wellbeing at Glasgow,Colleague availability / capability,Closed,19,58,False
+2025Q1,manual handling task near miss during store walk at Glasgow,"Health, safety and product",Closed,36,87,False
+2025Q1,phishing email vulnerability flagged privacy review opened at Peterborough action agreed with owner,Cyber / data,Open,76,78,False
+2025Q1,unpatched server unauthorised access attempt with possible data exposure at Peterborough,Cyber / data,Closed,36,50,False
+2025Q1,privileged account unauthorised access attempt with possible data exposure at Store 087,Cyber / data,Open,13,81,False
+2025Q1,supplier onboarding check skipped with no secondary check at Glasgow,Process / control failure,Closed,58,60,False
+2025Q1,stock system service degradation with rollback delayed at Bristol action agreed with owner,System / IT outage,Closed,14,77,False
+2025Q1,warehouse team below minimum staffing leaving no cover for critical task at Bristol,Colleague availability / capability,Closed,32,81,False
+2025Q1,shift cover high attrition leaving no cover for critical task at Peterborough,Colleague availability / capability,Closed,29,74,False
+2025Q1,logistics provider missed collection during peak trading at Store 087,Third-party / carrier failure,Closed,38,73,False
+2025Q1,courier partner system outage leaving stock shortages on promoted lines at Glasgow reviewed by control owner,Third-party / carrier failure,Open,40,42,False
+2025Q1,laptop credential compromise beyond agreed patching deadline at Store 214,Cyber / data,Closed,35,63,False
+2025Q1,price change not approved leading to margin error at Bristol,Process / control failure,Closed,9,72,False
+2025Q1,product recall notice near miss risk of colleague harm at Store 214,"Health, safety and product",Open,90,55,True
+2025Q1,supplier onboarding check not completed with no secondary check at Manchester,Process / control failure,Closed,54,46,True
+2025Q2,customer data export unauthorised access attempt reported to security team at Glasgow action agreed with owner,Cyber / data,Closed,25,79,False
+2025Q2,database latency issue causing failed customer orders at Store 087 reviewed by control owner,System / IT outage,Closed,25,60,False
+2025Q2,price change bypassed so control did not operate at Peterborough action agreed with owner,Process / control failure,Closed,10,72,False
+2025Q2,approval step missing evidence found during audit testing at Manchester,Process / control failure,Closed,35,54,False
+2025Q2,shift cover not trained reducing throughput on peak shift at Peterborough customer impact low,Colleague availability / capability,Closed,16,74,False
+2025Q2,contracted haulier failed to scan parcels disrupting store replenishment at Store 214,Third-party / carrier failure,Open,62,46,True
+2025Q2,phishing email vulnerability flagged privacy review opened at Glasgow reviewed by control owner,Cyber / data,Closed,58,83,False
+2025Q2,courier partner late delivery disrupting store replenishment at Peterborough escalated to area manager,Third-party / carrier failure,Closed,37,73,False
+2025Q2,customer data export unauthorised access attempt with possible data exposure at Daventry raised via incident log,Cyber / data,Closed,15,46,False
+2025Q2,phishing email lost device detected by monitoring at Leeds,Cyber / data,Closed,53,82,False
+2025Q2,third party carrier failed to scan parcels leaving stock shortages on promoted lines at Basingstoke,Third-party / carrier failure,Open,5,61,False
+2025Q2,warehouse aisle near miss escalated to safety lead at Leeds,"Health, safety and product",Closed,27,29,False
+2025Q2,supplier portal account clicked by colleague beyond agreed patching deadline at Bristol reviewed by control owner,Cyber / data,Closed,18,65,False
+2025Q2,racking not actioned with corrective repair needed at Basingstoke,"Health, safety and product",Closed,29,66,False
+2025Q2,vehicle yard near miss during store walk at Basingstoke,"Health, safety and product",Closed,26,38,False
+2025Q2,vehicle yard injury reported with corrective repair needed at Daventry,"Health, safety and product",Closed,30,45,False
+2025Q2,new starters overtime limit reached reducing throughput on peak shift at Glasgow,Colleague availability / capability,Open,50,22,True
+2025Q2,vehicle yard injury reported escalated to safety lead at Manchester reviewed by control owner,"Health, safety and product",Open,89,73,True
+2025Q2,contracted haulier failed to deliver causing delayed customer deliveries at Leeds,Third-party / carrier failure,Closed,61,67,False
+2025Q2,manual handling task near miss escalated to safety lead at Peterborough,"Health, safety and product",Closed,37,42,False
+2025Q2,approval step bypassed found during audit testing at Peterborough,Process / control failure,Closed,10,81,False
+2025Q2,privileged account unauthorised access attempt detected by monitoring at Glasgow,Cyber / data,Closed,33,44,False
+2025Q2,racking near miss beyond required timeframe at Bristol,"Health, safety and product",Closed,61,80,False
+2025Q2,courier partner capacity shortfall causing delayed customer deliveries at Basingstoke,Third-party / carrier failure,Open,101,57,True
+2025Q2,manual stock count performed late so control did not operate at Store 214,Process / control failure,Closed,41,66,False
+2025Q2,website checkout failed deployment slowing click and collect processing at Basingstoke,System / IT outage,Closed,17,31,False
+2025Q2,racking damage identified beyond required timeframe at Daventry escalated to area manager,"Health, safety and product",Closed,58,72,False
+2025Q2,supplier portal account credential compromise beyond agreed patching deadline at Glasgow,Cyber / data,Open,74,71,True
+2025Q2,privileged account lost device privacy review opened at Manchester,Cyber / data,Closed,39,66,False
+2025Q2,courier partner failed to scan parcels leaving stock shortages on promoted lines at Peterborough action agreed with owner,Third-party / carrier failure,Open,37,22,True
+2025Q2,warehouse aisle not actioned risk of colleague harm at Store 087,"Health, safety and product",Closed,72,63,True
+2025Q2,refund authorisation performed late leading to margin error at Basingstoke escalated to area manager,Process / control failure,Closed,46,64,False
+2025Q2,website checkout service degradation with rollback delayed at Store 087,System / IT outage,Open,47,40,True
+2025Q2,phishing email credential compromise reported to security team at Basingstoke,Cyber / data,Closed,14,69,False
+2025Q2,payment gateway service degradation after release change at Glasgow action agreed with owner,System / IT outage,Closed,60,67,False
+2025Q2,third party carrier failed to scan parcels disrupting store replenishment at Peterborough reviewed by control owner,Third-party / carrier failure,Closed,11,36,False
+2025Q2,customer data export clicked by colleague detected by monitoring at Bristol,Cyber / data,Closed,25,53,False
+2025Q2,phishing email lost device beyond agreed patching deadline at Bristol action agreed with owner,Cyber / data,Closed,35,35,False
+2025Q2,contracted haulier missed collection during peak trading at Store 214,Third-party / carrier failure,Closed,33,69,False
+2025Q2,laptop credential compromise beyond agreed patching deadline at Store 214 action agreed with owner,Cyber / data,Open,84,58,True
+2025Q2,database timeout after release change at Glasgow customer impact low,System / IT outage,Open,39,59,False
+2025Q2,logistics provider capacity shortfall with no contingency carrier available at Peterborough,Third-party / carrier failure,Closed,28,34,False
+2025Q2,manual handling task near miss with corrective repair needed at Manchester,"Health, safety and product",Open,136,46,True
+2025Q2,contact centre team high attrition causing picking errors at Peterborough,Colleague availability / capability,Open,92,37,True
+2025Q2,database sync failure causing failed customer orders at Daventry,System / IT outage,Closed,11,52,False
+2025Q2,warehouse aisle injury reported during store walk at Manchester reviewed by control owner,"Health, safety and product",Closed,45,79,False
+2025Q2,laptop credential compromise detected by monitoring at Manchester,Cyber / data,Closed,5,69,False
+2025Q2,vehicle yard injury reported beyond required timeframe at Leeds reviewed by control owner,"Health, safety and product",Closed,7,23,False
+2025Q2,new starters not trained reducing throughput on peak shift at Store 087,Colleague availability / capability,Closed,12,74,False
+2025Q2,mobile app failed deployment causing failed customer orders at Leeds,System / IT outage,Closed,8,35,False
+2025Q2,new starters below minimum staffing affecting colleague wellbeing at Leeds,Colleague availability / capability,Open,50,49,True
+2025Q2,approval step not completed with no secondary check at Store 087,Process / control failure,Closed,6,21,False
+2025Q2,stock system latency issue slowing click and collect processing at Daventry customer impact low,System / IT outage,Closed,37,35,True
+2025Q2,courier partner capacity shortfall with no contingency carrier available at Peterborough customer impact low,Third-party / carrier failure,Closed,47,40,True
+2025Q2,manual handling task damage identified risk of colleague harm at Leeds customer impact low,"Health, safety and product",Closed,26,25,True
+2025Q2,supplier failed to scan parcels during peak trading at Basingstoke,Third-party / carrier failure,Closed,52,63,False
+2025Q2,key person not trained leaving no cover for critical task at Peterborough,Colleague availability / capability,Open,135,88,True
+2025Q2,shift cover not trained leaving no cover for critical task at Store 214 reviewed by control owner,Colleague availability / capability,Closed,42,55,False
+2025Q2,logistics provider failed to deliver leaving stock shortages on promoted lines at Leeds,Third-party / carrier failure,Open,110,34,True
+2025Q2,picking colleagues single person dependency increasing delivery delays at Daventry,Colleague availability / capability,Closed,55,51,True
+2025Q2,stock system failed deployment showing incorrect availability online at Peterborough customer impact low,System / IT outage,Closed,43,81,False
+2025Q2,manual handling task damage identified with corrective repair needed at Basingstoke,"Health, safety and product",Closed,11,38,False
+2025Q2,supplier failed to deliver during peak trading at Glasgow,Third-party / carrier failure,Closed,23,88,False
+2025Q2,database failed deployment after release change at Peterborough customer impact low,System / IT outage,Closed,6,79,False
+2025Q2,laptop credential compromise with possible data exposure at Peterborough,Cyber / data,Closed,15,50,False
+2025Q2,laptop unauthorised access attempt beyond agreed patching deadline at Store 214,Cyber / data,Open,131,47,True
+2025Q3,fire door obstructed during store walk at Bristol,"Health, safety and product",Closed,25,52,False
+2025Q3,laptop credential compromise detected by monitoring at Daventry action agreed with owner,Cyber / data,Open,36,65,False
+2025Q3,customer data export credential compromise privacy review opened at Store 214,Cyber / data,Open,134,62,True
+2025Q3,customer data export vulnerability flagged privacy review opened at Basingstoke,Cyber / data,Open,111,81,True
+2025Q3,price change skipped with no secondary check at Daventry,Process / control failure,Closed,44,38,True
+2025Q3,customer data export clicked by colleague beyond agreed patching deadline at Bristol,Cyber / data,Closed,20,63,False
+2025Q3,payment gateway sync failure after release change at Peterborough escalated to area manager,System / IT outage,Closed,18,74,False
+2025Q3,manual handling task near miss risk of colleague harm at Manchester,"Health, safety and product",Closed,21,48,False
+2025Q3,privileged account clicked by colleague with possible data exposure at Store 087,Cyber / data,Open,19,78,False
+2025Q3,refund authorisation skipped found during audit testing at Basingstoke,Process / control failure,Closed,78,75,True
+2025Q3,picking colleagues single person dependency leaving no cover for critical task at Store 214,Colleague availability / capability,Open,129,79,True
+2025Q3,supplier portal account sent to wrong recipient beyond agreed patching deadline at Store 214 raised via incident log,Cyber / data,Open,107,61,True
+2025Q3,logistics provider capacity shortfall with no contingency carrier available at Basingstoke reviewed by control owner,Third-party / carrier failure,Closed,47,84,False
+2025Q3,third party carrier system outage leaving stock shortages on promoted lines at Bristol,Third-party / carrier failure,Closed,21,43,False
+2025Q3,supplier onboarding check skipped leading to margin error at Leeds,Process / control failure,Closed,36,66,False
+2025Q3,laptop lost device reported to security team at Daventry,Cyber / data,Open,36,65,False
+2025Q3,supplier onboarding check missing evidence with no secondary check at Leeds raised via incident log,Process / control failure,Closed,31,56,False
+2025Q3,contracted haulier missed collection leaving stock shortages on promoted lines at Glasgow,Third-party / carrier failure,Open,114,34,True
+2025Q3,product recall notice damage identified during store walk at Daventry,"Health, safety and product",Open,118,74,True
+2025Q3,courier partner failed to deliver during peak trading at Bristol,Third-party / carrier failure,Open,87,66,True
+2025Q3,picking colleagues high attrition causing picking errors at Store 087,Colleague availability / capability,Closed,50,63,False
+2025Q3,racking injury reported with corrective repair needed at Daventry,"Health, safety and product",Open,62,81,False
+2025Q3,contact centre team below minimum staffing reducing throughput on peak shift at Manchester action agreed with owner,Colleague availability / capability,Open,45,69,False
+2025Q3,customer data export clicked by colleague privacy review opened at Leeds,Cyber / data,Open,25,82,False
+2025Q3,manual handling task damage identified with corrective repair needed at Manchester,"Health, safety and product",Closed,18,66,False
+2025Q3,third party carrier failed to deliver leaving stock shortages on promoted lines at Bristol action agreed with owner,Third-party / carrier failure,Closed,11,81,False
+2025Q3,key person overtime limit reached affecting colleague wellbeing at Basingstoke,Colleague availability / capability,Open,135,80,True
+2025Q3,manual stock count not completed creating financial loss at Bristol customer impact low,Process / control failure,Closed,11,63,False
+2025Q3,third party carrier capacity shortfall with no contingency carrier available at Store 214,Third-party / carrier failure,Open,7,35,False
+2025Q3,order management platform timeout slowing click and collect processing at Leeds,System / IT outage,Closed,69,80,False
+2025Q3,picking colleagues not trained causing picking errors at Store 087 reviewed by control owner,Colleague availability / capability,Closed,28,41,False
+2025Q3,picking colleagues below minimum staffing affecting colleague wellbeing at Peterborough,Colleague availability / capability,Open,115,23,True
+2025Q3,unpatched server credential compromise detected by monitoring at Store 087,Cyber / data,Closed,14,83,False
+2025Q3,fire door near miss beyond required timeframe at Basingstoke,"Health, safety and product",Closed,16,55,False
+2025Q3,logistics provider system outage leaving stock shortages on promoted lines at Basingstoke,Third-party / carrier failure,Open,131,73,True
+2025Q3,privileged account credential compromise detected by monitoring at Store 214 raised via incident log,Cyber / data,Open,136,46,True
+2025Q3,customer data export unauthorised access attempt reported to security team at Glasgow,Cyber / data,Closed,32,24,True
+2025Q3,privileged account unauthorised access attempt with possible data exposure at Glasgow,Cyber / data,Closed,91,87,True
+2025Q3,key person high attrition increasing delivery delays at Bristol action agreed with owner,Colleague availability / capability,Closed,8,71,False
+2025Q3,contact centre team not trained leaving no cover for critical task at Leeds,Colleague availability / capability,Closed,39,48,False
+2025Q3,delivery partner capacity shortfall leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,27,40,False
+2025Q3,third party carrier late delivery leaving stock shortages on promoted lines at Peterborough,Third-party / carrier failure,Closed,37,67,False
+2025Q3,manual stock count bypassed with no secondary check at Leeds,Process / control failure,Closed,5,28,False
+2025Q3,supplier onboarding check not completed with no secondary check at Peterborough,Process / control failure,Open,74,61,True
+2025Q3,website checkout failed deployment causing failed customer orders at Glasgow,System / IT outage,Closed,32,84,False
+2025Q3,picking colleagues high attrition leaving no cover for critical task at Store 214 reviewed by control owner,Colleague availability / capability,Closed,29,48,False
+2025Q3,customer data export sent to wrong recipient beyond agreed patching deadline at Daventry,Cyber / data,Open,27,29,False
+2025Q3,logistics provider failed to deliver disrupting store replenishment at Store 214,Third-party / carrier failure,Open,30,56,False
+2025Q3,supplier portal account sent to wrong recipient with possible data exposure at Store 087 raised via incident log,Cyber / data,Closed,39,61,False
+2025Q3,courier partner failed to scan parcels leaving stock shortages on promoted lines at Peterborough,Third-party / carrier failure,Closed,38,43,False
+2025Q3,supplier failed to scan parcels with no contingency carrier available at Store 087,Third-party / carrier failure,Open,102,82,True
+2025Q3,contact centre team short notice absence reducing throughput on peak shift at Basingstoke reviewed by control owner,Colleague availability / capability,Closed,31,71,False
+2025Q3,logistics provider capacity shortfall causing delayed customer deliveries at Glasgow,Third-party / carrier failure,Closed,59,78,False
+2025Q3,phishing email vulnerability flagged beyond agreed patching deadline at Bristol,Cyber / data,Open,118,50,True
+2025Q3,vehicle yard failed inspection escalated to safety lead at Store 087,"Health, safety and product",Closed,66,58,True
+2025Q3,approval step not approved creating financial loss at Daventry,Process / control failure,Closed,29,24,True
+2025Q3,database sync failure showing incorrect availability online at Store 087,System / IT outage,Closed,24,83,False
+2025Q4,payment gateway unavailable showing incorrect availability online at Store 087,System / IT outage,Closed,10,30,False
+2025Q4,phishing email sent to wrong recipient reported to security team at Peterborough customer impact low,Cyber / data,Closed,33,85,False
+2025Q4,stock system timeout after release change at Peterborough,System / IT outage,Closed,24,37,False
+2025Q4,new starters not trained reducing throughput on peak shift at Store 214,Colleague availability / capability,Closed,20,34,False
+2025Q4,payment gateway sync failure with rollback delayed at Bristol,System / IT outage,Closed,34,83,False
+2025Q4,picking colleagues high attrition affecting colleague wellbeing at Leeds,Colleague availability / capability,Closed,46,67,False
+2025Q4,website checkout service degradation slowing click and collect processing at Basingstoke,System / IT outage,Open,20,47,False
+2025Q4,third party carrier system outage with no contingency carrier available at Leeds reviewed by control owner,Third-party / carrier failure,Closed,27,21,True
+2025Q4,courier partner missed collection leaving stock shortages on promoted lines at Peterborough,Third-party / carrier failure,Closed,45,45,False
+2025Q4,supplier system outage disrupting store replenishment at Bristol,Third-party / carrier failure,Open,115,59,True
+2025Q4,privileged account sent to wrong recipient reported to security team at Bristol raised via incident log,Cyber / data,Open,49,61,False
+2025Q4,warehouse team high attrition increasing delivery delays at Daventry raised via incident log,Colleague availability / capability,Closed,19,47,False
+2025Q4,supplier missed collection disrupting store replenishment at Bristol,Third-party / carrier failure,Open,91,52,True
+2025Q4,database unavailable showing incorrect availability online at Daventry,System / IT outage,Closed,25,21,True
+2025Q4,leaver access removal missing evidence leading to margin error at Glasgow,Process / control failure,Closed,8,36,False
+2025Q4,picking colleagues short notice absence affecting colleague wellbeing at Basingstoke reviewed by control owner,Colleague availability / capability,Closed,34,30,True
+2025Q4,website checkout failed deployment causing failed customer orders at Manchester,System / IT outage,Closed,61,69,False
+2025Q4,fire door failed inspection escalated to safety lead at Leeds,"Health, safety and product",Open,9,86,False
+2025Q4,manual stock count skipped creating financial loss at Daventry,Process / control failure,Closed,28,40,False
+2025Q4,refund authorisation not completed creating financial loss at Basingstoke raised via incident log,Process / control failure,Closed,77,79,False
+2025Q4,mobile app sync failure after release change at Store 087 customer impact low,System / IT outage,Closed,32,35,False
+2025Q4,delivery partner late delivery disrupting store replenishment at Basingstoke raised via incident log,Third-party / carrier failure,Open,80,42,True
+2025Q4,third party carrier missed collection leaving stock shortages on promoted lines at Store 214,Third-party / carrier failure,Closed,9,73,False
+2025Q4,logistics provider late delivery during peak trading at Bristol reviewed by control owner,Third-party / carrier failure,Open,136,80,True
+2025Q4,laptop unauthorised access attempt reported to security team at Basingstoke reviewed by control owner,Cyber / data,Closed,35,61,False
+2025Q4,laptop vulnerability flagged beyond agreed patching deadline at Manchester escalated to area manager,Cyber / data,Closed,51,50,True
+2025Q4,manual handling task obstructed during store walk at Store 087,"Health, safety and product",Closed,11,45,False
+2025Q4,warehouse aisle obstructed escalated to safety lead at Store 214,"Health, safety and product",Closed,52,69,False
+2025Q4,delivery partner missed collection leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Closed,25,50,False
+2025Q4,supplier portal account credential compromise with possible data exposure at Glasgow,Cyber / data,Open,29,83,False
+2025Q4,contact centre team high attrition increasing delivery delays at Leeds customer impact low,Colleague availability / capability,Closed,8,45,False
+2025Q4,unpatched server credential compromise reported to security team at Leeds,Cyber / data,Open,10,81,False
+2025Q4,product recall notice obstructed beyond required timeframe at Manchester,"Health, safety and product",Closed,5,35,False
+2025Q4,new starters short notice absence leaving no cover for critical task at Leeds,Colleague availability / capability,Open,10,51,False
+2025Q4,warehouse aisle obstructed with corrective repair needed at Peterborough,"Health, safety and product",Closed,35,40,False
+2025Q4,phishing email clicked by colleague detected by monitoring at Bristol,Cyber / data,Closed,20,73,False
+2025Q4,database failed deployment after release change at Daventry raised via incident log,System / IT outage,Closed,18,70,False
+2025Q4,third party carrier failed to scan parcels disrupting store replenishment at Store 214 action agreed with owner,Third-party / carrier failure,Closed,43,76,False
+2025Q4,warehouse team below minimum staffing affecting colleague wellbeing at Peterborough customer impact low,Colleague availability / capability,Closed,47,66,False
+2025Q4,supplier failed to scan parcels with no contingency carrier available at Bristol escalated to area manager,Third-party / carrier failure,Open,49,85,False
+2025Q4,website checkout timeout after release change at Basingstoke,System / IT outage,Closed,35,38,False
+2025Q4,website checkout latency issue after release change at Basingstoke,System / IT outage,Open,64,36,True
+2025Q4,logistics provider missed collection with no contingency carrier available at Bristol,Third-party / carrier failure,Closed,54,48,True
+2025Q4,customer data export lost device with possible data exposure at Store 214,Cyber / data,Open,85,77,True
+2025Q4,supplier system outage leaving stock shortages on promoted lines at Manchester,Third-party / carrier failure,Open,56,73,False
+2025Q4,manual handling task injury reported escalated to safety lead at Manchester,"Health, safety and product",Closed,32,26,True
+2025Q4,customer data export clicked by colleague privacy review opened at Leeds,Cyber / data,Closed,36,65,False
+2025Q4,supplier onboarding check performed late with no secondary check at Store 214 action agreed with owner,Process / control failure,Closed,44,50,False
+2025Q4,manual stock count skipped found during audit testing at Glasgow,Process / control failure,Closed,5,27,False
+2025Q4,phishing email credential compromise detected by monitoring at Manchester,Cyber / data,Open,81,22,True
+2025Q4,fire door failed inspection escalated to safety lead at Glasgow,"Health, safety and product",Closed,33,67,False
+2025Q4,third party carrier failed to deliver disrupting store replenishment at Manchester,Third-party / carrier failure,Open,44,61,False
+2025Q4,privileged account sent to wrong recipient beyond agreed patching deadline at Bristol,Cyber / data,Closed,38,35,True
+2025Q4,fire door injury reported escalated to safety lead at Basingstoke action agreed with owner,"Health, safety and product",Closed,64,60,True
+2025Q4,contracted haulier failed to deliver with no contingency carrier available at Store 087,Third-party / carrier failure,Open,19,71,False
+2025Q4,contracted haulier missed collection disrupting store replenishment at Store 214,Third-party / carrier failure,Closed,32,45,False
+2025Q4,customer data export sent to wrong recipient with possible data exposure at Bristol action agreed with owner,Cyber / data,Open,51,73,False
+2025Q4,supplier onboarding check bypassed with no secondary check at Store 214,Process / control failure,Closed,23,64,False
+2025Q4,delivery partner failed to scan parcels leaving stock shortages on promoted lines at Daventry escalated to area manager,Third-party / carrier failure,Open,18,69,False
+2025Q4,mobile app timeout slowing click and collect processing at Basingstoke,System / IT outage,Closed,29,29,False
+2025Q4,new starters not trained reducing throughput on peak shift at Store 214,Colleague availability / capability,Closed,29,87,False
